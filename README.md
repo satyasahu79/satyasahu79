@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Satya Prakash Sahu
 - 👀 I’m interested in ... iOS development
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... SwiftUI
 - 📫 How to reach me ... satyasahu79@gmail.com
 
 <!---
